@@ -1,0 +1,4 @@
+version: 2.1
+
+orbs:
+  sonarqube: clicklogiq/sonarqube@1.0.1
